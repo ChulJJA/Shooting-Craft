@@ -6,9 +6,8 @@
 				Jeesoo Kim	
 				Junseo Bae	
 				Sangmin Kim	
-   /Course		GAM100F18KR
-   /High Concept		Shooting Craft is a top-down shooting game
-			where user can build and upgrade their own ship to defeat flying enemies.
+   /High Concept		Shooting Craft is a top-down shooting game where user can
+				build and upgrade their own ship to defeat flying enemies.
    /Copyright		All content ?2018 DigiPen (USA) Corporation, all rights reserved.
 
 */
@@ -20,6 +19,7 @@
 
 - Source Code
 	Source code is on the Source_Code branch
+	You can compile the codes attached in the solution file.
 
 - How To Play? instructions
 	Shoot down the enemies coming towards you. Upgrade your battle ship by getting Power items. 
