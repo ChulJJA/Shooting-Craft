@@ -38,9 +38,5 @@
 	You can press 'r' to restart.
 
 - Credits
-	*President : Claude Comair
-	*Executive Producer : David Ly
-	*Instructor : Kevin Wright		
 	*Developers : JeeSoo Kim(Producer), SangMin Kim(Technical Manager), ChulSeung Lee(Sound Director), 
 		      Hyun Kang(Designer), JunSeo Bae(Test Manager)
-	*Special Thanks : Digipen KMU students for play testing
