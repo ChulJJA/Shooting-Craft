@@ -8,6 +8,8 @@
 				Sangmin Kim	
    /High Concept		Shooting Craft is a top-down shooting game where user can
 				build and upgrade their own ship to defeat flying enemies.
+   /Copyright		All content ?2018 DigiPen (USA) Corporation, all rights reserved.
+
 */
 
 - Installation instructions
@@ -36,5 +38,9 @@
 	You can press 'r' to restart.
 
 - Credits
+	*President : Claude Comair
+	*Executive Producer : David Ly
+	*Instructor : Kevin Wright		
 	*Developers : JeeSoo Kim(Producer), SangMin Kim(Technical Manager), ChulSeung Lee(Sound Director), 
 		      Hyun Kang(Designer), JunSeo Bae(Test Manager)
+	*Special Thanks : Digipen KMU students for play testing
